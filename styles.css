@@ -1,0 +1,261 @@
+body{
+  margin: 0;
+  /* width: 1000px; */
+}
+
+* .bkgimg{
+  position: absolute;
+  height: 602px;
+  /* width: 100px; */
+  margin-top: 120px;
+  margin-left: 283px;
+  z-index: -1;
+  }
+
+.mainbody_logo{
+  position: relative;
+  margin-top: 10px;
+  margin-left: 50px;
+  height: 78px;
+}
+
+.Top_Right_bar{
+  height: 30px;
+  width: 101.5%;
+  background-color: #ffbd59;
+  border-style: none;
+  margin: 10px -20px;
+  position: absolute;
+  /* z-index: -1; */
+  text-align: center;
+
+}
+.Top_left_bar{
+  height: 30px;
+  width: 51.9%;
+  background-color: #4B0082;
+  border-style: none;
+  margin: 10px 649px;
+  position: absolute;
+  /* z-index: -1; */
+}
+
+.briefcase{
+  width: 18px;
+  margin-top: 5px;
+  margin-left: 70px;
+  float: left;
+}
+
+.briefcase_text{
+  position: relative;
+  margin: 8px 1180px auto auto;
+  /* margin-right: 930px; */
+}
+.Date{
+  margin-top: 7px;
+  margin-left: 10px;
+  color: white;
+}
+
+.notice_bar{
+  position: absolute;
+  height: 45px;
+  width: 600px;
+  color: white;
+  font-size: 12px;
+  font-weight: lighter;
+  text-align: justify;
+  border-radius: 8px;
+  background: linear-gradient(to bottom, #000066 -80%, #cc0099 130%);
+  margin: 90px auto auto 90px;
+}
+
+.notice_bar_text{
+  margin-top: 6px;
+  margin-left: 30px;
+  line-height: 1.5;
+}
+
+.login_cont{
+  position: absolute;
+  height: 200px;
+  width: 600px;
+  border-radius: 8px;
+  border-style: groove;
+  border-width: thin;
+  border-color: #E0E0E0;
+  background-color: white;
+  color: grey;
+  margin: 170px auto auto 90px;
+}
+H4{
+  margin-top: 10px;
+  margin-left: 10px;
+  color: black;
+}
+
+.user_name{
+  position: absolute;
+  margin-left: 40px;
+  font-size: 12px;
+  height: 250px;
+}
+
+/* .UN{
+  margin-top: 40px;
+} */
+
+a{
+text-decoration: none;
+}
+
+.Pass_word{
+  margin-left: 230px;
+  font-size: 12px;
+  line-height: 15px;
+  /* display: inline-block; */
+}
+
+
+.login_button{
+  float: left;
+  margin-left: 190px;
+  margin-top: -50px;
+  width: 80px;
+  height: 30px;
+  background-color: #ffbd59;
+  border-radius: 5px;
+}
+.line{
+border-style: dotted;
+border-color: grey;
+width: 560px;
+margin-top: 20px;
+}
+
+p
+{
+  font-size: 12px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.Other_info{
+  position: absolute;
+  height: 160px;
+  width: 600px;
+  border-radius: 8px;
+  border-style: groove;
+  border-width: thin;
+  border-color: #f2f2f2;
+  background-color: white;
+  color: grey;
+  margin: 400px auto auto 90px;
+  background: linear-gradient(to bottom, #FFFFFF 15% , #E0E0E0 80%)
+
+}
+
+a{
+  font-size: 12px;
+  }
+span{
+  color: #ffbd59;
+  font-style: bold;
+  padding-top: 20px;
+}
+.a_text{
+  color: grey;
+}
+.a_text:hover{
+  color: #1597bb;
+  /* font-weight: bold; */
+}
+.img_info{
+  width: 50px;
+  margin-left: 10px;
+  margin-right: auto;
+  margin-top: 5px;;
+}
+.house{
+  position: absolute;
+  width: 145Px;
+  margin-left: 5px;
+  margin-top: 10px;
+  line-height: 15px;
+}
+
+.Mouse{
+  width: 145Px;
+  margin-top: 10px;
+  margin-left: 150px;
+  position: absolute;
+  line-height: 15px;
+
+}
+.telephone{
+  width: 145Px;
+  margin-top: 10px;
+  margin-left: 301px;
+  position: absolute;
+  line-height: 15px;
+}
+.Lock{
+  width: 145Px;
+  margin-top: 10px;
+  margin-left: 450px;
+  line-height: 15px;
+}
+.img_lock{
+  width:36px;
+}
+
+.social_Media{
+    height: 37px;
+    margin-top: 600px;
+
+
+}
+
+.img_sm{
+  margin-left: 950px;
+
+}
+.Connect{
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 830px;
+  font-size: 15px;
+  color: blue;
+
+}
+.bottom_cont{
+  margin-top: -14px;
+  height: 70px;
+  background-color: #505050;
+  color: white;
+  font-size: 12px;
+  text-align: center;
+  line-height: 20px;
+
+}
+.bottom_txt{
+  padding: 15px;
+
+
+}
+/* .body_under_bar{
+  /* background-image: url('girl seating.jpg'); */
+  /* height: 900px; */
+  /* width: 900px; */
+  /* color: black; */
+  /* width: 900px; */
+
+/* .bkgimg{
+  /* height: 300px;
+  margin-left: 563px;
+} */
+/* .bar_1_tx{
+  margin: 10px */
+
+/* } */
